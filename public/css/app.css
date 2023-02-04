@@ -1,0 +1,33 @@
+/* .container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+@media only screen and (max-width: 1366px) {
+    .card-body .btn {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .card-body .btn {
+        font-size: 10px;
+    }
+
+    .container {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .card-body .order {
+        width: 10rem;
+    }
+    .card-body .btn {
+        font-size: 10px;
+    }
+
+    .container {
+        display: block;
+    }
+} */
